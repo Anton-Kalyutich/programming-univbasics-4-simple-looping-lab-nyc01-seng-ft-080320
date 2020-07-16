@@ -26,4 +26,5 @@ def return_string_array(array)
     array[i] = array[i].to_str
     i += 1
   end
+  array
 end
